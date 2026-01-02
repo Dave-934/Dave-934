@@ -1,8 +1,8 @@
-# Hello! I'm Dave Martin D'Souza
+# Hello! I'm Divya Dev Pandey
 
 ## 🚀 About Me
 
-I'm a junior AI engineer passionate about building intelligent voice-based conversational systems. Currently, I'm advancing my expertise in voice AI agents, real-time audio streaming, telephony integration, and multi-turn conversational AI. I'm equally fascinated by AI-powered applications and exploring cutting-edge technologies like speech-to-speech models and agentic workflows.
+Currently, I'm advancing my expertise in voice AI agents, real-time audio streaming, telephony integration, and multi-turn conversational AI. I'm equally fascinated by AI-powered applications and exploring cutting-edge technologies like speech-to-speech models and agentic workflows.
 
 ## 🌯 **Key Focus Areas (2025 & Beyond)**
 
